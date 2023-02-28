@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/*
+Trabajo realizado por Carlos Eduardo Solís Mora.
+Carné: 2021051459
+*/
+
 func main() {
 
 	// Tamaño del centro del rombo
