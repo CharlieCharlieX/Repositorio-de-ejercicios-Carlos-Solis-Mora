@@ -5,6 +5,11 @@ import (
 	"strings"
 )
 
+/*
+Trabajo realizado por Carlos Eduardo Solís Mora.
+Carné: 2021051459
+*/
+
 func main() {
 	str := "Hola mundo, mi nombre es Carlos\nEste es un mensaje\nPara comprobar funcionamiento."
 
