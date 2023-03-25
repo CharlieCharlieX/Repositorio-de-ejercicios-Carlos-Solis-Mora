@@ -5,7 +5,7 @@ Trabajo realizado por Carlos Eduardo Solís Mora.
 Carné: 2021051459
 *)
 
-// Ejercicios de rutas en Grafos con búsqueda en profundidad
+// Ejercicios de rutas en Grafos con búsqueda en profundidad con peso
 
 //        a ---- c ---- x
 //      /   \  /
@@ -34,11 +34,6 @@ let rec vecinos nodo grafo =
     | [] -> []
     | ((head, peso)::adyacencias)::tail when nodo = head -> adyacencias
     | _::tail -> vecinos nodo tail 
-(*let rec vecinos nodo grafo =
-    match grafo with
-    | [] -> []
-    | ((head::_)::(tail::_))::_ when nodo = head -> tail
-    | _::tail -> vecinos nodo tail*) 
 
 let extender (ruta: _ list) grafo =
     (vecinos (fst ruta.Head) grafo)
