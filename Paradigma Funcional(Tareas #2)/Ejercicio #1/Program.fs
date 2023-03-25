@@ -2,6 +2,11 @@
 
 open System.Text.RegularExpressions
 
+(*
+Trabajo realizado por Carlos Eduardo Solís Mora.
+Carné: 2021051459
+*)
+
 //La función filtrar palabras utiliza las funcionalidades de la librería Text, en específico RegularExpressions.
 //Se utiliza la funcionalidad Regex, que permite darle un formato a una cadena de texto, y entonces utilizamos "\b" que corresponde
 //a límites de palabra, lo que significaría que la expresión "\b%s\b" tiene que ser una palabra completa y no simplemente algo
