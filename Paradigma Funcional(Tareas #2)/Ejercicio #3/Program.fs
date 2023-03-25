@@ -1,5 +1,10 @@
 ﻿// For more information see https://aka.ms/fsharp-console-apps
 
+(*
+Trabajo realizado por Carlos Eduardo Solís Mora.
+Carné: 2021051459
+*)
+
 //Este es el valor mínimo que deben tener los productos para poder aplicárseles el impeusto de venta elegido.
 let rangoPagoImpuestos = 2000
 
