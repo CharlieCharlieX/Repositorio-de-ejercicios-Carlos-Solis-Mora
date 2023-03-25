@@ -26,6 +26,7 @@ Ejercicio 3, terminado el martes 21 de marzo de 2023. 22:50 pm.
 Ejercicio 4, terminado el sábado 25 de marzo de 2023. 4:13 am.
 
 NOTAS:
+
 -Se realizó una modificación en el ejercicio 1, 2 y 3 el día 25/03/2023 4:15 am. para agregar el encabezado:
 
 (*
