@@ -15,7 +15,7 @@ Ejercicio 5, terminado el lunes 6 de marzo de 2023.
 
 ---Ejercicios para el segundo laboratorio (Paradigma funcional)---
 
-Última decha de modificación: 21/03/2023 22:50pm.
+Última decha de modificación: 25/03/2023 4:15 pm.
 
 Ejercicio 1, terminado el martes 21 de marzo de 2023 19:37 pm.
 
