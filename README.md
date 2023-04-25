@@ -44,5 +44,6 @@ Ejercicio 2, terminado el domingo 23 de abril de 2023 22:18 pm.
 
 Ejercicio 3, terminado el lunes 24 de abril de 2023. 21:51 pm.
 
-Notas:
+NOTAS:
+
 -Se subieron los ejercicios 1 y 2 en el mismo día y la misma hora que el ejercicio 3 ya que fue cuando se terminó todos los ejercicos hasta la fecha.
