@@ -33,3 +33,16 @@ NOTAS:
 Trabajo realizado por Carlos Eduardo Solís Mora.
 Carné: 2021051459
 *)
+
+---Ejercicios para el tercer laboratorio (Paradigma logico)---
+
+Última decha de modificación: 24/04/2023 21:51 pm.
+
+Ejercicio 1, terminado el domingo 23 de abril de 2023 18:37 pm.
+
+Ejercicio 2, terminado el domingo 23 de abril de 2023 22:18 pm.
+
+Ejercicio 3, terminado el lunes 24 de abril de 2023. 21:51 pm.
+
+Notas:
+-Se subieron los ejercicios 1 y 2 en el mismo día y la misma hora que el ejercicio 3 ya que fue cuando se terminó todos los ejercicos hasta la fecha.
