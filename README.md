@@ -36,13 +36,15 @@ Carné: 2021051459
 
 ---Ejercicios para el tercer laboratorio (Paradigma logico)---
 
-Última decha de modificación: 24/04/2023 21:51 pm.
+Última decha de modificación: 01/05/2023 21:58 pm.
 
 Ejercicio 1, terminado el domingo 23 de abril de 2023 18:37 pm.
 
 Ejercicio 2, terminado el domingo 23 de abril de 2023 22:18 pm.
 
 Ejercicio 3, terminado el lunes 24 de abril de 2023. 21:51 pm.
+
+Ejercicio 4, terminado el lunes 01 de mayo de 2023. 21:58 pm.
 
 NOTAS:
 
