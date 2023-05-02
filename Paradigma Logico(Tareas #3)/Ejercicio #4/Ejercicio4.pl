@@ -45,11 +45,11 @@ conectados(X,Y):- conectado(X,Y).
 conectados(X,Y):- conectado(Y,X).
 
 
-%! Ini: Nodo origen para la búsqueda
-%  Fin: Nodo finalo para la búsqueda
-%  LRuta: Lista auxiliar que se irá llenando hacia adelante en recusión
-%  hasta encontrar o no solución
-%  Res: Variables donde se unificarán los resultados obtenidos.
+%! Ini: Nodo origen para la bÃºsqueda
+%  Fin: Nodo finalo para la bÃºsqueda
+%  LRuta: Lista auxiliar que se irÃ¡ llenando hacia adelante en recusiÃ³n
+%  hasta encontrar o no soluciÃ³n
+%  Res: Variables donde se unificarÃ¡n los resultados obtenidos.
 
 ruta(Fin,Fin,LRuta,Res):-
     reverse([Fin|LRuta],Res). %% reversa al resultado obtenido
@@ -60,7 +60,7 @@ ruta(Ini,Fin,LRuta,Res):-
 
 % Encuentra todos los caminos entre dos nodos dados
 % Uso: todos_los_caminos(Inicio, Fin, ListaDeCaminos)
-% Ejecutar esto para ver el funcionamiento del código.
+% Ejecutar esto para ver el funcionamiento del cÃ³digo.
 todos_los_caminos(Inicio, Fin, ListaDeCaminos) :-
     findall(Camino, ruta(Inicio, Fin, [], Camino), ListaDeCaminos).
 
